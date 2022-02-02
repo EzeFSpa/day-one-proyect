@@ -1,0 +1,19 @@
+{
+  "name": "day-one-proyect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzeFSpa/day-one-proyect.git"
+  },
+  "author": "Ezequiel Sparaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EzeFSpa/day-one-proyect/issues"
+  },
+  "homepage": "https://github.com/EzeFSpa/day-one-proyect#readme"
+}
